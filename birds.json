@@ -1,0 +1,40 @@
+{
+    "data":[
+        {
+            "name": "Monty",
+            "age": "1.5",
+            "weight": "8",
+            "type": "Dog",
+            "favoriteFood": "Chicken"
+        },
+        {
+            "name": "Binni",
+            "age": "3",
+            "weight": "65",
+            "type": "Cow",
+            "favoriteFood": "Grass"
+        },
+        {
+            "name": "Oggy",
+            "age": "0.5",
+            "weight": "1",
+            "type": "Rabbit",
+            "favoriteFood": "Carrot"
+        },
+        {
+            "name": "Tom",
+            "age": "2",
+            "weight": "10",
+            "type": "Dog",
+            "favoriteFood": "Milk"
+        },
+        {
+            "name": "Tom",
+            "age": "1",
+            "weight": "3.5",
+            "type": "Cat",
+            "favoriteFood": "Rat"
+        }
+        
+    ]
+}
